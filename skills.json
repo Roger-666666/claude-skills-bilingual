@@ -1,0 +1,46 @@
+{
+  "name": "claude-skills",
+  "description": {
+    "en": "Claude Code Skills Collection",
+    "zh": "Claude Code 技能集合"
+  },
+  "version": "1.0.0",
+  "languages": ["en", "zh"],
+  "defaultLanguage": "en",
+  "skills": [
+    {
+      "name": "prompt-deep-creator",
+      "description": {
+        "en": "Transform oral/casual prompts into structured, professional formal prompt templates. Supports deep creation for multiple content types",
+        "zh": "将口述/随意的提示词深度创作，转化为结构化、专业的正式提示词模板。支持多种内容类型的深度创作"
+      },
+      "author": "User",
+      "categories": {
+        "en": ["Writing", "Content Creation", "Productivity Tools"],
+        "zh": ["写作", "内容创作", "效率工具"]
+      },
+      "keywords": {
+        "en": ["prompt", "creation", "writing", "content generation", "template"],
+        "zh": ["提示词", "prompt", "创作", "写作", "内容生成", "模板"]
+      },
+      "dir": "prompt-deep-creator"
+    },
+    {
+      "name": "sansheng",
+      "description": {
+        "en": "Three Provinces and Six Ministries multi-agent thinking framework. Structure any complex task through Crown Prince (sorting) → Secretariat (planning) → Chancellery (review) → Department of State Affairs (dispatch) → Six Ministries (execution) → Summary.",
+        "zh": "三省六部多Agent思维框架。将任何复杂任务按照太子(分拣)→中书省(规划)→门下省(审议)→尚书省(派发)→六部(执行)→汇总的流程进行结构化处理。"
+      },
+      "author": "User",
+      "categories": {
+        "en": ["AI Agent", "Task Management", "Thinking Framework"],
+        "zh": ["AI Agent", "任务管理", "思维框架"]
+      },
+      "keywords": {
+        "en": ["multi-agent", "task processing", "workflow", "thinking framework", "sansheng"],
+        "zh": ["多Agent", "任务处理", "工作流", "思维框架", "三省六部"]
+      },
+      "dir": "sansheng"
+    }
+  ]
+}
